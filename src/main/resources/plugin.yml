@@ -1,0 +1,8 @@
+name: TntWatchdog
+version: '${project.version}'
+main: me.nexcreep.tntwatchdog.Main
+api-version: 1.17
+prefix: tntwatchdog
+authors: [ NexCreep ]
+description: A plugin that record when a TNT is placed and if it's in overworld cancel the explosion.
+website: https://nexcreep.es/
